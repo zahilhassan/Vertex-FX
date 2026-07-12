@@ -1,5 +1,5 @@
 # 💱 Vertex FX
-https://zahilhassan.github.io/Vertex-FX/
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge)](https://zahilhassan.github.io/Vertex-FX/)
 A modern and responsive **Live Currency Converter** built with **HTML, CSS, and JavaScript**.
 
 Vertex FX provides real-time currency conversion using a live exchange rate API with a premium fintech-inspired interface.
